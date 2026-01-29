@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" height="300" width= "880" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitkushwaha2411" alt="sumitkushwaha2411" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Science**
 
