@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td><img src="./assets/ascii-art.png" alt="ASCII portrait" width="420" /></td>
-   
+    <td><img src="./assets/wordmark.svg" alt="ASCII portrait" width="420" /></td>
   </tr>
 </table>
 <p align="center"><b>sumit@github ~ $ ./contributions.sh</b></p>
