@@ -15,10 +15,10 @@
   A passionate Web Developer, Data Analyst, Data Science and Machine Learning Enthusiast from India<br/>
   🌱 Currently learning <b>Data Science</b> · 📫 sumitkushwaha2411003@gmail.com
 </p>
-<p align="center"><b>sumit@github ~ $ ./links.sh</b></p>
+<p align="center"><b>sumitkushwaha2411@github ~ $ ./links.sh</b></p>
 <p align="center">
   <a href="https://sumitkushwaha.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/sumitkushwaha"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge" /></a>
+  <a href="[https://linkedin.com/in/sumitkushwaha](https://www.linkedin.com/in/sumit-kushwaha24/)"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge" /></a>
   <a href="https://instagram.com/_.sumitkushwaha.24._"><img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge" /></a>
   <a href="https://twitter.com/kushwahasumit24"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge" /></a>
   <a href="https://kaggle.com/sumitkushwaha24"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge" /></a>
