@@ -11,11 +11,11 @@ import sys
 from PIL import Image
 from terminal_svg import render_terminal_svg
 
-# Darkest -> lightest. Tweak this string to change the "ink" density/style.
-RAMP = "@%#*+=-:. "
+# Darkest -> lightest. More characters = smoother gradients / more photographic.
+RAMP = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,\"^`'. "
 
 
-def image_to_ascii(path, cols=90, font_aspect=0.55):
+def image_to_ascii(path, cols=160, font_aspect=0.5):
     """
     cols: how many characters wide the ASCII art should be.
     font_aspect: monospace chars are taller than wide, so we shrink the
@@ -45,16 +45,16 @@ def main():
         sys.exit(1)
 
     photo_path, out_path = sys.argv[1], sys.argv[2]
-    lines = image_to_ascii(photo_path, cols=90)
+    lines = image_to_ascii(photo_path, cols=160)
     lines.append("")
-    lines.append("avi@github:~$ whoami  Sumit Kushwaha")
+    lines.append("sumit@github:~$ whoami  Sumit Kushwaha")
 
     svg = render_terminal_svg(
         lines,
         title="sumit@github: ~$ ./portrait.sh",
-        font_size=6,
-        line_height=7,
-        char_width=3.6,
+        font_size=3.6,
+        line_height=4.1,
+        char_width=2.15,
     )
 
     with open(out_path, "w") as f:

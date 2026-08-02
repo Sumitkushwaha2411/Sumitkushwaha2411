@@ -1,0 +1,34 @@
+name: update-readme-assets
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # once a day
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyfiglet pillow
+
+      - name: Regenerate wordmark
+        run: python scripts/generate_wordmark.py "SUMIT" assets/wordmark.svg --font=isometric1
+
+      - name: Regenerate portrait
+        # Commit a photo to the repo (e.g. assets/source_photo.jpg) for this to work
+        run: python scripts/generate_portrait.py assets/source_photo.jpg assets/portrait.svg
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/
+          git commit -m "chore: refresh README assets" || echo "nothing to commit"
+          git push

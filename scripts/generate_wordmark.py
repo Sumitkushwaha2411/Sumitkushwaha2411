@@ -21,7 +21,7 @@ def main():
         sys.exit(1)
 
     text, out_path = sys.argv[1], sys.argv[2]
-    font = "isometric1"
+    font = "block"
     for arg in sys.argv[3:]:
         if arg.startswith("--font="):
             font = arg.split("=", 1)[1]
