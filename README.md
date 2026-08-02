@@ -6,7 +6,7 @@
 
 <table align="center">
   <tr>
-    <td><img src="./assets/portrait.svg" alt="ASCII portrait" width="420" /></td>
+    <td><img src="./assets/ascii-art.png" alt="ASCII portrait" width="420" /></td>
     <td><img src="./assets/wordmark.svg" alt="wordmark" width="420" /></td>
   </tr>
 </table>
