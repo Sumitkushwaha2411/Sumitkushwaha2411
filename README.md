@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/wordmark.svg" alt="Sumit Kushwaha" />
-</p>
+
 <p align="center"><b>sumit@github ~ $ whoami</b></p>
 <table align="center">
   <tr>
