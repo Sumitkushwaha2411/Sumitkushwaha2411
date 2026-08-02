@@ -6,7 +6,7 @@
     <td><img src="./assets/wordmark.svg" alt="ASCII portrait" width="420" /></td>
   </tr>
 </table>
-<p align="center"><b>sumit@github ~ $ ./contributions.sh</b></p>
+<p align="center"><b>sumitkushwaha2411@github ~ $ ./contributions.sh</b></p>
 <p align="center">
   <img src="https://ghchart.rshah.org/2f81f7/Sumitkushwaha2411" alt="contribution graph" />
 </p>
