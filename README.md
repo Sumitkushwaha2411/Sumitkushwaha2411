@@ -23,6 +23,7 @@
   <a href="https://twitter.com/kushwahasumit24"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge" /></a>
   <a href="https://kaggle.com/sumitkushwaha24"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge" /></a>
   <a href="https://leetcode.com/SumitKushwaha24"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge" /></a>
+  <a href="https://www.hackerrank.com/profile/sumitkushwaha241"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
