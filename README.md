@@ -91,7 +91,7 @@ class SumitKushwaha:
 ### 📊 IntelliBI – AI-Powered Business Intelligence Platform
 Solves the problem of complex, time-consuming data analysis by providing AI-powered dashboards, predictive forecasting, anomaly detection, and natural-language insights. Achieved a comprehensive BI platform that simplifies data-driven decision-making for businesses.
 
-`Python` `Pandas` `scikit-learn` `Pandas` `Pandas` `Pandas` `Pandas` `Pandas` `Pandas`
+`HTML` `CSS` `JavaScript` `Python` `FastAPI` `Supabase` `PostgreSQL` `Pandas` `Scikit-learn` `XGBoost` `Trigris` `Railway` `Netlify`
 
 [View Demo →](https://intellibi.netlify.app/)
 
