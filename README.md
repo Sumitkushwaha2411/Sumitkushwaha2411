@@ -122,7 +122,7 @@ Solves the problem of scattered information and inefficient task management thro
 ### 🗄️Datalytix – AI-Powered Business Analytics Platform
 Solves the problem of manual data analysis by automating dataset processing, dashboard creation, forecasting, and natural-language SQL queries.
 
-`SQL` `MySQL` `Data Analysis`
+HTML CSS JavaScript Python Supabase PostgreSQL Pandas NumPy Scikit-learn Groq API Render Netlify
 
 [View Demo →](https://datalytix.netlify.app/)
 
