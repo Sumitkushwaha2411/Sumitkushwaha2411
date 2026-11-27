@@ -91,41 +91,40 @@ class SumitKushwaha:
 ### 📊 IntelliBI – AI-Powered Business Intelligence Platform
 Solves the problem of complex, time-consuming data analysis by providing AI-powered dashboards, predictive forecasting, anomaly detection, and natural-language insights. Achieved a comprehensive BI platform that simplifies data-driven decision-making for businesses.
 
-`Python` `Pandas` `scikit-learn`
+`Python` `Pandas` `scikit-learn` `Pandas` `Pandas` `Pandas` `Pandas` `Pandas` `Pandas`
 
 [View Demo →](https://intellibi.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Project Name 2
-One or two lines on the problem it solves and the result you achieved.
-
+### 🌐 MindLabz – AI-Powered Second Brain
+Solves the problem of information overload and difficulty organizing personal knowledge by providing an intelligent space to store, manage, and retrieve information. Developed an AI-powered knowledge management platform that attracted over 100 users.
 `JavaScript` `Firebase` `Netlify`
 
-[View Repository →](https://github.com/Sumitkushwaha2411/REPO-NAME)
+[View Demo →](https://mindlabz.netlify.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Project Name 3
-One or two lines on the problem it solves and the result you achieved.
+### 🤖 Origix AI – AI-Powered Productivity Assistant
+Solves the problem of scattered information and inefficient task management through AI-powered chat, voice assistance, and intelligent productivity tools. Built an integrated AI assistant combining text and voice interactions to improve everyday productivity.
 
 `Python` `TensorFlow` `AI Automation`
 
-[View Repository →](https://github.com/Sumitkushwaha2411/REPO-NAME)
+[View Demo →](https://origix.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Project Name 4
-One or two lines on the problem it solves and the result you achieved.
+### 🗄️Datalytix – AI-Powered Business Analytics Platform
+Solves the problem of manual data analysis by automating dataset processing, dashboard creation, forecasting, and natural-language SQL queries.
 
 `SQL` `MySQL` `Data Analysis`
 
-[View Repository →](https://github.com/Sumitkushwaha2411/REPO-NAME)
+[View Demo →](https://datalytix.netlify.app/)
 
 </td>
 </tr>
