@@ -88,12 +88,12 @@ class SumitKushwaha:
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Project Name 1
-One or two lines on the problem it solves and the result you achieved.
+### 📊 IntelliBI – AI-Powered Business Intelligence Platform
+Solves the problem of complex, time-consuming data analysis by providing AI-powered dashboards, predictive forecasting, anomaly detection, and natural-language insights. Achieved a comprehensive BI platform that simplifies data-driven decision-making for businesses.
 
 `Python` `Pandas` `scikit-learn`
 
-[View Repository →](https://github.com/Sumitkushwaha2411/REPO-NAME)
+[View Demo →](https://intellibi.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
